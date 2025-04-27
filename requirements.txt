@@ -1,7 +1,6 @@
 numpy>=1.22,<1.24.4
 tensorflow==2.13.1
 keras>=2.13.1,<2.14
-typing-extensions>=4.8.0
 pandas
 scikit-learn
 fastapi==0.115.12
