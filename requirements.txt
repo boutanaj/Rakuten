@@ -1,11 +1,11 @@
-numpy>=1.22,<1.24.4
-tensorflow==2.13.1
-keras>=2.13.1,<2.14
+numpy
+tensorflow
+keras
 pandas
 scikit-learn
-fastapi==0.115.12
+fastapi
 uvicorn
 joblib
 python-multipart
 dvc
-sqlalchemy==2.0.40
+sqlalchemy
